@@ -8,4 +8,6 @@ public class MyClass {
     //Techpro branc ,version t1
     public String string4="Bu techpro branch'inde oluşturulmuş bir string'dir.";
 
+    //Techpro branc ,version t2
+    public String string5="Bu techpro branch'inde oluşturulmuş başka bir string'dir.";
 }
