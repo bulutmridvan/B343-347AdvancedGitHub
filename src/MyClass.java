@@ -20,4 +20,6 @@ public class MyClass {
     //Techro branch, version t5
     public String string10="Affet beni akşam üstü.";
 
+    //Conflict example ,v7
+    public String string11="Eski köprünün altında";
 }
