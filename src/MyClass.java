@@ -10,4 +10,11 @@ public class MyClass {
 
     //Techpro branc ,version t2
     public String string5="Bu techpro branch'inde oluşturulmuş başka bir string'dir.";
+
+    //Version v5
+    public String string7="Tarabya'da villası.";
+
+
+
 }
+
