@@ -16,5 +16,8 @@ public class MyClass {
 
 
 
-}
 
+    //Techro branch ,version t3
+    public String string8="hangi string oldugunun hesabını yapamadım.";
+
+}
