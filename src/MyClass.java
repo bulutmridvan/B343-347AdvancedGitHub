@@ -14,10 +14,10 @@ public class MyClass {
     //Version v5
     public String string7="Tarabya'da villası.";
 
-
-
-
     //Techro branch ,version t3
     public String string8="hangi string oldugunun hesabını yapamadım.";
+
+    //Techro branch, version t5
+    public String string10="Affet beni akşam üstü.";
 
 }
